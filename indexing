@@ -1,0 +1,16 @@
+a='Himanshu'
+print(a[:])
+
+#it prints the all string
+
+
+#for printing the word man we got as
+print(a[2:5])
+
+#negative index also possible from the last word
+print(a[-1])
+
+
+print(a[1:4:2])
+#output as ia
+#3rd pointer as skip counter it skips the value after one word
