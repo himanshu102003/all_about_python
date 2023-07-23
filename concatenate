@@ -1,0 +1,7 @@
+print('py' 'thon')
+
+  //output is
+  python
+
+prefix = 'py'
+print(prefix+thon) //using + operator we can concatenate the string
