@@ -1,0 +1,4 @@
+//reversing an array or list using indexing in python
+
+a='Creator'
+print(a[::-1]) //-1 take the reverse of that string that is slicing [start pointer:end pointer:skip pointer]
