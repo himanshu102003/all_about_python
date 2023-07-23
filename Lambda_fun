@@ -1,0 +1,12 @@
+cube = lambda i:i**3 //lambda function is used for individual variable as it is used like a function
+print(cube(3))
+
+//output as
+
+27
+
+//if we want to use lambda function in list that are possible using map function in python
+
+b = lambda i:i**3
+arr1=[3,5,9]
+print(list(map(b,arr1)))
